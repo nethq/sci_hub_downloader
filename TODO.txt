@@ -1,0 +1,3 @@
+Fix finding download links to work for alternative download links
+Fix number iteration and filter mask
+Make a function for unattended access
